@@ -1,0 +1,10 @@
+.app-shell { min-height: 100vh; display: flex; flex-direction: column; }
+.site-header { display:flex; align-items:center; justify-content:space-between; gap:1rem; padding:1rem clamp(1rem,5vw,4rem); background:white; border-bottom:1px solid #e8e4f2; }
+.brand { font-size:1.25rem; font-weight:800; color:#5b4aa5; } nav { display:flex; gap:1rem; flex-wrap:wrap; font-size:.95rem; }
+main { flex:1; } .page { max-width:1000px; margin:0 auto; padding:clamp(2rem,7vw,5rem) 1.25rem; }
+.hero { padding-top:clamp(4rem,10vw,8rem); } .eyebrow { color:#6c59b6; font-weight:700; text-transform:uppercase; letter-spacing:.12em; }
+h1 { max-width:800px; font-size:clamp(2.2rem,6vw,4.5rem); line-height:1.05; margin:.5rem 0 1rem; }
+.hero p { max-width:650px; line-height:1.7; } .hero-actions { display:flex; gap:.75rem; flex-wrap:wrap; margin:1.5rem 0; }
+.button { padding:.8rem 1.1rem; border-radius:.7rem; font-weight:700; } .primary { color:white; background:#5b4aa5; }
+.secondary { background:#eeeafb; color:#44367f; } .notice { color:#6f6a7f; font-size:.9rem; }
+footer { padding:1.5rem; text-align:center; color:#777184; border-top:1px solid #e8e4f2; background:white; }

@@ -1,0 +1,1 @@
+Store reviewed SQL schema, migration notes and safe sample data here. Never commit production dumps or real personal data.

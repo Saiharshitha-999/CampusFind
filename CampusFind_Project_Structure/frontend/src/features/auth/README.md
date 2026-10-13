@@ -1,0 +1,1 @@
+Team Lead + Muskaan: registration/login/verification/password-reset UI and API helpers. Coordinate shared App/routes edits.

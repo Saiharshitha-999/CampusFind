@@ -1,0 +1,1 @@
+Shared API client belongs here. Never store secrets in frontend code.

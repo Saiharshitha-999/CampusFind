@@ -1,0 +1,1 @@
+Add integration/manual tests for registration, report approval, approved-only search, matching, claim-proof privacy, status transitions and notifications.

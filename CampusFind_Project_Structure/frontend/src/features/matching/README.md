@@ -1,0 +1,1 @@
+Farhaan: match confidence display and client helpers; backend scoring is in backend/app/features/matching/.

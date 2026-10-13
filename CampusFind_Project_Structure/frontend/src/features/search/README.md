@@ -1,0 +1,1 @@
+Search/filter/sort UI and result cards. Coordinate UI with backend search owner.

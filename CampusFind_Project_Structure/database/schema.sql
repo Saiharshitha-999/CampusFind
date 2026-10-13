@@ -1,0 +1,4 @@
+-- CampusFind schema outline; not complete/executable yet.
+-- Proposed entities: users, item_reports, item_images, claims, claim_proofs,
+-- notifications, admin_audit_logs. Add foreign keys and timestamps.
+-- Hash passwords and restrict access to private contact/proof fields.
