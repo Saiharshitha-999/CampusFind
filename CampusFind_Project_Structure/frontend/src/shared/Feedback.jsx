@@ -1,0 +1,3 @@
+import { Link } from 'react-router-dom'
+export function Notice({error,success}) { return <>{error&&<p className="alert error">{error}</p>}{success&&<p className="alert success">{success}</p>}</> }
+export function AuthPrompt(){return <section className="narrow page"><div className="panel"><p className="eyebrow">Your campus account</p><h1 className="page-title">Sign in to continue.</h1><p className="muted">Verified accounts can create reports, submit claims, and follow updates.</p><div className="hero-actions"><Link className="button primary" to="/login">Sign in</Link><Link className="button secondary" to="/register">Create account</Link></div></div></section>}

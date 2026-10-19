@@ -1,3 +1,2 @@
-:root { font-family: Inter, system-ui, Arial, sans-serif; color: #242238; background: #f8f7fc; font-synthesis: none; }
-* { box-sizing: border-box; } body { margin: 0; min-width: 320px; } a { color: inherit; text-decoration: none; }
-button, input, textarea, select { font: inherit; }
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap');
+:root{font-family:'DM Sans',system-ui,Arial,sans-serif;color:#222a35;background:#f6f8fb;font-synthesis:none;text-rendering:optimizeLegibility}*{box-sizing:border-box}body{margin:0;min-width:320px}a{color:inherit;text-decoration:none}button,input,textarea,select{font:inherit}button{cursor:pointer}img{max-width:100%;display:block}::selection{background:#ccebe5;color:#132c2a}

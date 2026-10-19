@@ -17,6 +17,7 @@ dist/
 Thumbs.db
 backend/uploads/*
 !backend/uploads/.gitkeep
+backend/private-proof/
 *.sqlite3
 *.db
 *.dump
